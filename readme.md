@@ -22,7 +22,7 @@ This project demonstrates how to implement WebRTC multi-peer networking from scr
 
 ## Tech Stack & Protocols
 
-- **Frontend:** HTML5, CSS3, Vanilla JavaScript (`RTCPeerConnection`, `navigator.mediaDevices`)
+- **Frontend:** HTML5, Vanilla JavaScript (`RTCPeerConnection`, `navigator.mediaDevices`)
 - **Backend:** Node.js, Express, Socket.io
 - **Protocols & Concepts:** WebRTC, SDP (Session Description Protocol), ICE Candidates, STUN (Google Public STUN)
 
