@@ -38,13 +38,13 @@ This project demonstrates how to implement WebRTC multi-peer networking from scr
 ### Installation
 
 1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/Farhad8797/webrtc-socketio-mesh.git
-   ```
+```bash
+git clone https://github.com/Farhad8797/webrtc-socketio-mesh.git
+```
 2. **Install the modules:**
-   ```bash
-   npm install
-   ```
+```bash
+npm install
+```
 3. **Run server:**
 
 ```bash
